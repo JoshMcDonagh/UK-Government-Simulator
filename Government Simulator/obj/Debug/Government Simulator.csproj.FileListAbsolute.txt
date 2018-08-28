@@ -1,0 +1,42 @@
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\bin\Debug\Government Simulator.exe.config
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\bin\Debug\Government Simulator.exe
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\bin\Debug\Government Simulator.pdb
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\Government Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\App.g.cs
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\Government Simulator_MarkupCompile.cache
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\Government Simulator_MarkupCompile.lref
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\MainWindow.baml
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\Government Simulator.g.resources
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\Government_Simulator.Properties.Resources.resources
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\Government Simulator.csproj.GenerateResource.Cache
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\Government Simulator.exe
+C:\Users\Josh Marland\Desktop\System Files\College\A-level\Linear\Computer Science\Coursework\Project\Government Simulator\Government Simulator\obj\Debug\Government Simulator.pdb
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\bin\Debug\Government Simulator.exe.config
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\Government Simulator.exe
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\Government Simulator.pdb
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\bin\Debug\Government Simulator.exe
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\bin\Debug\Government Simulator.pdb
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\Government Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\App.g.cs
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\Government Simulator_MarkupCompile.cache
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\Government Simulator_MarkupCompile.lref
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\MainWindow.baml
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\Government Simulator.g.resources
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\Government_Simulator.Properties.Resources.resources
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Prototype 2\Government Simulator\Government Simulator\obj\Debug\Government Simulator.csproj.GenerateResource.Cache
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\bin\Debug\Government Simulator.exe.config
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\Government Simulator.exe
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\Government Simulator.pdb
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\bin\Debug\Government Simulator.exe
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\bin\Debug\Government Simulator.pdb
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\Government Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\MainWindow.g.cs
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\App.g.cs
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\Government Simulator_MarkupCompile.cache
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\Government Simulator_MarkupCompile.lref
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\MainWindow.baml
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\Government Simulator.g.resources
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\Government_Simulator.Properties.Resources.resources
+C:\Users\Josh Marland\Desktop\Home Desktop Files\College\A-level\Linear\Computer Science\Coursework\Project\Final\Government Simulator\Government Simulator\obj\Debug\Government Simulator.csproj.GenerateResource.Cache
